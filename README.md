@@ -35,7 +35,9 @@ GET /courier/totalTravelDistance/6
 This application uses an in-memory database (H2) .
 
 > datasource.url : jdbc:h2:mem:migDB
+> 
 > datasource.username : admin
+> 
 > datasource.password : migros
 
 All Migros Stores store at **STORE** table. 
